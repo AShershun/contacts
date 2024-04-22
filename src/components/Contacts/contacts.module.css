@@ -1,0 +1,68 @@
+.contact_wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.page_title {
+    text-align: center;
+}
+
+.contact_list {
+    margin: 0 auto;
+}
+
+th,
+td {
+    padding: 8px;
+}
+
+button {
+    border: 0;
+    padding: 3px 10px;
+    border-radius: 18px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.contact_add_btn {
+    margin: 20px auto;
+    background-color: cadetblue;
+}
+
+.contact_remove_btn {
+    background-color: #c32727;
+    border: 0;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 0 5px;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+.contact_form {
+    text-align: center;
+}
+
+.btns_block {
+    margin: 20px 0;
+}
+
+input[type="text"] {
+    padding-left: 5px;
+    font-size: 18px;
+    margin: 0 5px;
+    border: 2px solid cadetblue;
+    border-radius: 5px;
+}
+
+.btn_add {
+    background-color: green;
+    margin-right: 20px;
+}
+
+.btn_cancel {
+    background-color: #c32727;
+}
