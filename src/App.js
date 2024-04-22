@@ -1,4 +1,4 @@
-import Contacts from './components/Contacts/Index';
+import Contacts from './components/Contacts';
 
 import './App.css';
 
