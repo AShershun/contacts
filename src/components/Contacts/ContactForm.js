@@ -25,6 +25,7 @@ const ContactForm = ({addContact, toggleForm}) => {
         setName('');
         setSurname('');
         setPhone('');
+        toggleForm();
     };
 
     return (
